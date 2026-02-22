@@ -160,10 +160,17 @@ cat <<EOF > "$OUT_FILE"
   "MANUFACTURER": "Google",
   "MODEL": "$MODEL",
   "FINGERPRINT": "$FINGERPRINT",
+  "BRAND": "google",
   "PRODUCT": "$PRODUCT",
   "DEVICE": "$DEVICE",
+  "RELEASE": "$VERSION",
+  "ID": "$ID",
+  "INCREMENTAL": "$INCREMENTAL",
+  "TYPE": "user",
+  "TAGS": "release-keys",
   "SECURITY_PATCH": "$SECURITY_PATCH",
-  "DEVICE_INITIAL_SDK_INT": "$SDK"
+  "DEVICE_INITIAL_SDK_INT": "$SDK",
+  "FIRST_API_LEVEL": "$SDK"
 }
 EOF
 
