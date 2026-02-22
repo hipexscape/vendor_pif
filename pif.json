@@ -1,1 +1,9 @@
-# Reserved
+{
+  "MANUFACTURER": "Google",
+  "MODEL": "Pixel 7a",
+  "FINGERPRINT": "google/lynx_beta/lynx:17/ZP11.260123.011/14822050:user/release-keys",
+  "PRODUCT": "lynx_beta",
+  "DEVICE": "lynx",
+  "SECURITY_PATCH": "2026-01-05",
+  "DEVICE_INITIAL_SDK_INT": "37"
+}
