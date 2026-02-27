@@ -1,10 +1,10 @@
 name: Update PIF JSON
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Run every day at midnight
-  workflow_dispatch: # Allow manual trigger
-
+    - cron: "0 3 * * 0"
+    
 jobs:
   update-pif:
     runs-on: ubuntu-latest
