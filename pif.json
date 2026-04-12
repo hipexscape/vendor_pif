@@ -1,16 +1,16 @@
 {
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 6",
-  "FINGERPRINT": "google/oriole/oriole:13/TQ3A.230805.001/10316531:user/release-keys",
+  "MODEL": "Pixel 10 Pro Fold",
+  "FINGERPRINT": "google/rango_beta/rango:17/ZP11.260220.007/14993212:user/release-keys",
   "BRAND": "google",
-  "PRODUCT": "oriole",
-  "DEVICE": "oriole",
-  "RELEASE": "13",
-  "ID": "TQ3A.230805.001",
-  "INCREMENTAL": "10316531",
+  "PRODUCT": "rango_beta",
+  "DEVICE": "rango",
+  "RELEASE": "17",
+  "ID": "ZP11.260220.007",
+  "INCREMENTAL": "14993212",
   "TYPE": "user",
   "TAGS": "release-keys",
-  "SECURITY_PATCH": "2023-08-05",
-  "DEVICE_INITIAL_SDK_INT": "31",
-  "FIRST_API_LEVEL": "31"
+  "SECURITY_PATCH": "2026-02-05",
+  "DEVICE_INITIAL_SDK_INT": "37",
+  "FIRST_API_LEVEL": "37"
 }
